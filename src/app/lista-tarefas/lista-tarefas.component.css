@@ -1,0 +1,36 @@
+h2 {
+    color: #007bff;
+  }
+  
+  input {
+    margin-right: 10px;
+    padding: 5px;
+    width: 250px;
+  }
+  
+  button {
+    padding: 5px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    background: #f8f9fa;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+  }
+  
